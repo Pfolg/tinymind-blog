@@ -1,3 +1,7 @@
+---
+title: VScode背景更改
+date: 2024年10月21日12:14:31
+---
 # 效果
 ![](https://github.com/user-attachments/assets/8fec340b-ff7c-441b-8040-6ca534e8bf7e)
 # 实现方法
